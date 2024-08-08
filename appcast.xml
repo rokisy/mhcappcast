@@ -3,10 +3,10 @@
     <channel>
         <title>SIER HCMS - Appcast</title>
         <item>
-            <title>Version 4.0.0+38</title>
+            <title>Version 4.0.0+41</title>
             <description>Update Absensi.</description>
-            <pubDate> Wed, 09 Aug 2024 10:02:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.sier.mobile_hcms" sparkle:version="4.0.0+38" sparkle:os="android" />
+            <pubDate> Thu, 08 Aug 2024 10:42:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sier.mobile_hcms" sparkle:version="4.0.0+41" sparkle:os="android" />
         </item>
     </channel>
 </rss>
